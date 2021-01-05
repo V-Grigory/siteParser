@@ -1,0 +1,28 @@
+{
+  "name": "sites-parser",
+  "version": "1.0.0",
+  "description": "parsing sites in order to find text occurrences on sites",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "sites-parser",
+    "javascript",
+    "nodejs"
+  ],
+  "author": {
+    "name": "Grigory Volchok",
+    "email": "grigoryvolchok@gmail.com",
+    "url": "https://grigoryvolchok.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/V-Grigory/sites-parser.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {}
+}
